@@ -1,0 +1,20 @@
+.yellow-notification {
+    margin-top: -4px;
+    padding-top: 4px;
+    background: #eee;
+    border-top: 1px solid #cbd9dc;
+    border-bottom: 1px solid #cbd9dc;
+    box-shadow: 10px 10px 128px -27px rgba(103,103,103,.75);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.yellow-notification {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+.yellow-notification-inner{
+    margin-top: 7px;
+    margin-left: 13px;
+}
+
